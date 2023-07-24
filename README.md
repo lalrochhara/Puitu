@@ -1,8 +1,5 @@
 # OpenGM (Open Group Manager)
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f07503e9b21a451795a9d1f57b3ba79e)](https://app.codacy.com/manual/KaratekHD/Nemesis?utm_source=github.com&utm_medium=referral&utm_content=KaratekHD/Nemesis&utm_campaign=Badge_Grade_Dashboard)
-[![Crowdin](https://badges.crowdin.net/karatekbot/localized.svg)](https://translate.karatek.systems/project/karatekbot)
-
 A modular telegram Python bot running on python3 with an sqlalchemy database. This is a fork of [PaulSonOfLars tgbot](https://github.com/PaulSonOfLars/tgbot/pull/66).
 
 Originally a simple group management bot with multiple admin features, it has evolved into becoming a basis for modular
