@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Nemesis - Powerful  Telegram group managment bot
+# Mr.Puitu - Powerful  Telegram group managment bot
 # Copyright (C) 2017 - 2019 Paul Larsen
 # Copyright (C) 2019 - 2023 Nicky Lalrochhara
 #
