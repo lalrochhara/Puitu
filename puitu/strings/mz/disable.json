@@ -1,0 +1,15 @@
+{
+  "DISABLED_COMMAND": "Disabled the use of `{}`",
+  "ERR_INVALID_COMMAND": "That command can't be disabled",
+  "ERR_NO_COMMAND": "What should I disable?",
+  "ENABLED_COMMAND": "Enabled the use of `{}`",
+  "ERR_NOT_DISABLED": "Is that even disabled?",
+  "ERR_NO_COMMAND_TO_ENABLE": "What should I enable?",
+  "LIST_OF_COMMANDS": "The following commands are toggleable:\n{}",
+  "NO_CMD_AVAILABLE": "No commands can be disabled.",
+  "NO_CMD_DISABLED": "No commands are disabled!",
+  "DISABLED_COMMANDS": "The following commands are currently restricted:\n{}",
+  "STATS": "{} disabled items, across {} chats.",
+  "MODULE_NAME": "Command disabling",
+  "HELP": " - /cmds: check the current status of disabled commands\n\n*Admin only:*\n - /enable <cmd name>: enable that command\n - /disable <cmd name>: disable that command\n - /listcmds: list all possible toggleable commands"
+}
