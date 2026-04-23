@@ -6,7 +6,7 @@ python-telegram-bot==13.12
 psycopg2-binary
 feedparser
 toml
-googletrans==4.0.0-rc1
+googletrans==4.0.2
 pillow
 alphabet-detector
 flask
