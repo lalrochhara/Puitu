@@ -11,7 +11,7 @@ pillow
 alphabet-detector
 flask
 flask-restplus
-Werkzeug==2.0.3
+Werkzeug==3.1.8
 flask-httpauth
 schedule
 captcha
